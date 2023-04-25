@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Harshal Patil>
+   # <Profit188>
 
    # Input:
    # p, principal amount
